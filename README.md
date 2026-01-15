@@ -1,14 +1,12 @@
 # 👋 Hey, I’m Chiebuka (Ebuka)
 
-**Product-minded software engineer** who likes shipping real things, cutting scope,  
-and fixing what actually blocks users.
+**Product-minded software engineer** who likes shipping real things, cutting scope, and fixing what actually blocks users.
 
 ---
 
 ## 🚀 Currently building
 
-- 🏋🏽 **Helthy** — fitness platform with **800+ users**  
-  (workouts + nutrition in one flow)
+- 🏋🏽 **Helthy** — fitness platform with **800+ users** (workouts + nutrition in one flow)
 
 - 💇🏽 **Krown** — booking + operations for beauty professionals in Nigeria
 
