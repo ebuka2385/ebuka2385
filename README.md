@@ -1,16 +1,20 @@
-## Hi there 👋
+**👋 Hey, I’m Chiebuka (Ebuka)**
 
-<!--
-**ebuka2385/ebuka2385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product-minded software engineer who likes shipping real things, cutting scope, and fixing what actually blocks users.
 
-Here are some ideas to get you started:
+Currently building:
+- 🏋🏽 **Helthy** — fitness platform with 800+ users (workouts + nutrition in one flow)
+- 💇🏽 **Krown** — booking + operations for beauty professionals in Nigeria
+- ⚙️ **Refactr** — high-volume file conversion web app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about:
+- activation & retention > feature count
+- simple systems over clever ones
+- talking to users before building
+
+Tech I use a lot:
+TypeScript, Python, SQL · React · Node.js · PostgreSQL · Docker
+
+📫 Reach me:  
+LinkedIn → linkedin.com/in/chiebuka-onyejesi  
+Email → chiebukaonyejesi@gmail.com
