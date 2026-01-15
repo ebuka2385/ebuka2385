@@ -1,9 +1,8 @@
-# 👋 Hey, I’m Chiebuka (Ebuka)
+# 👋 Hey, I’m Ebuka
 
-**Product-minded software engineer** who likes shipping real things, cutting scope, and fixing what actually blocks users.
+**Product-minded software engineer** who likes shipping real things and fixing what actually blocks users.
 
 ---
-
 ## 🚀 Currently building
 
 - 🏋🏽 **Helthy** — fitness platform with **800+ users** (workouts + nutrition in one flow)
@@ -13,7 +12,6 @@
 - ⚙️ **Refactr** — high-volume file conversion web app
 
 ---
-
 ## 🧠 I care about
 
 - activation & retention > feature count  
@@ -21,14 +19,12 @@
 - talking to users *before* building
 
 ---
-
 ## 🛠 Tech I use a lot
 
 **TypeScript · Python · SQL**  
 React · Node.js · PostgreSQL · Docker
 
 ---
-
 ## 📫 Reach me
 
 - LinkedIn → https://linkedin.com/in/chiebuka-onyejesi  
